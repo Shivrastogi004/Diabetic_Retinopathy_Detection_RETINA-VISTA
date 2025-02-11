@@ -20,7 +20,7 @@ The project includes multiple trained models to handle different aspects of imag
 The dataset used in this project can be accessed [here](#dataset-source-link).
 
 ## Running the Application
-The project also features a web application that allows users to upload retinal images and receive immediate predictions. Follow the instructions below to set up and run the application on your local machine:
+The project also features a web application that allows users to upload retinal images and receive immediate predictions related to the severity of diabetic retinopathy. Follow the instructions below to set up and run the application on your local machine:
 1. Clone the repository: `git clone <repository-url>`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the application: `python app.py`
